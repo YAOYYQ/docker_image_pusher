@@ -24,5 +24,6 @@ alpine:3.20.1
 jenkins:2.439
 ollama
 influxDB
+mysql
 
 
