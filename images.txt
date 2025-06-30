@@ -3,7 +3,6 @@ redis
 rabbitmq
 nginx
 zookeeper
-kafka
 ollama
 influxdb
 
