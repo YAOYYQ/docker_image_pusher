@@ -2,8 +2,7 @@ mysql:8.0.40
 redis
 rabbitmq
 nginx
-grafana
-elasticsearch:7.17.14
+elasticsearch
 zookeeper
 nacos-server
 kafka
