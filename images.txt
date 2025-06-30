@@ -1,7 +1,6 @@
 mysql:8.0.40
 redis
 rabbitmq
-rocketmq
 nginx
 grafana
 elasticsearch:7.17.14
