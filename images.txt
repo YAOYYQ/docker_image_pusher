@@ -2,11 +2,9 @@ mysql:8.0.40
 redis
 rabbitmq
 nginx
-elasticsearch
 zookeeper
 nacos-server
 kafka
-alpine
 jenkins
 ollama
 influxDB
