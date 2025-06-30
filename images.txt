@@ -3,11 +3,9 @@ redis
 rabbitmq
 nginx
 zookeeper
-nacos-server
 kafka
-jenkins
 ollama
-influxDB
+influxdb
 
 
 
