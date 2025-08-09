@@ -5,6 +5,7 @@ nginx
 zookeeper
 ollama
 influxdb
+dataease
 
 
 
