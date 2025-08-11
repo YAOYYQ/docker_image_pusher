@@ -3,7 +3,7 @@ redis
 rabbitmq
 nginx
 zookeeper
-dify
+dataease
 
 
 
